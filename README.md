@@ -1,6 +1,7 @@
 # flutter_cookbook_images
 
 A new Flutter project.
+Channel is beta for web.(Just use easily flutter on web, not a special aim)
 
 ## Getting Started
 
